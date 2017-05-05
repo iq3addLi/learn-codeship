@@ -1,0 +1,22 @@
+{
+  "name": "learn-codeship",
+  "version": "1.0.0",
+  "description": "This project purpose is learn how to use codeship.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iq3addLi/learn-codeship.git"
+  },
+  "author": "iq3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iq3addLi/learn-codeship/issues"
+  },
+  "homepage": "https://github.com/iq3addLi/learn-codeship#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
